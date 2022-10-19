@@ -1,0 +1,213 @@
+/* MAIN PAGE */
+body,
+.col-md-12 {
+    background: #181818;
+}
+.body-content {
+    background: #181818;
+}
+.glasistre-menu {
+    background: #00385d;
+    box-shadow: 1px 1px 10px 1px #00385d;
+}
+.rubrika-part {
+    border: 2px solid #898989;
+    border-radius: 5px;
+}
+li a {
+    border-radius: 1px !important;
+    border-top: none;
+    border-bottom: none;
+}
+li a:hover {
+    box-shadow: 0px 0px 0px 1px #ffffff !important;
+}
+#navbarSupportedContent {
+    background-color: #00385d;
+}
+.nav-link a {
+    color: #bcbcbc !important;
+}
+.nav-item a {
+    color: #bcbcbc !important;
+}
+.col-md-8 h1,
+h4,
+h5 {
+    color: #bcbcbc !important;
+}
+hr {
+    color: rgba(0, 0, 0, 0);
+    border-top: 1px solid rgba(0, 0, 0, 0);
+}
+.izdvojeno {
+    border: 1px solid #bcbcbc;
+    box-shadow: 0px 0px 20px 0px #006fb9;
+    background: #001422 !important;
+}
+.izdvojeno h2 span {
+    background: #b09a00;
+    color: #dedede;
+}
+.col-md-12,
+.row {
+    background-color: rgba(0, 0, 0, 0);
+}
+.row.izdvojeno .btn-warning {
+    background-color: #484848;
+    color: #bcbcbc !important;
+    border-color: #dddddd;
+}
+.col-md-3 h4 {
+    color: #dfdfdf !imporant;
+}
+.col-md-6 h6 {
+    color: #d5af00 !imporant;
+}
+.news-img-block {
+    box-shadow: 0px 0px 5px 0px #006fb9;
+    border-radius: 10px;
+}
+.naslov.magazin h2 span {
+    background: #a2139f;
+    border-radius: 3px;
+}
+.fs15 a {
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 20px;
+    border: 3px solid #8a8a8a;
+    border-radius: 30px;
+    display: inline-block;
+}
+.fs15 a[href="/kategorije/recepti"] {
+    color: #476aec !important;
+}
+.fs15 a[href="/kategorije/film"] {
+    color: #a747ec !important;
+}
+.fs15 a[href="/kategorije/tehnologija"] {
+    color: #47ec60 !important;
+}
+.webcambox span,
+h2 {
+    color: #bcbcbc;
+}
+.col-md-12 a[href="/web-kamere"],
+i {
+    color: #bcbcbc;
+}
+.col-md-12 i a {
+    color: #006fb9;
+}
+.bg-dark {
+    background: #282828 !important;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.mb-5 {
+    display: none;
+}
+.text-white {
+    color: #bcbcbc;
+}
+
+/* TEMA */
+.row .rubrika-14 {
+    border: none !important;
+}
+.description {
+    color: #959595;
+}
+
+/* CLANAK */
+#CloudHub_Element_Title {
+    color: #bcbcbc;
+}
+.meta-info {
+    color: #007cce;
+}
+#CloudHub_Element_Content {
+    color: #d0d0d0;
+}
+.gi-link {
+    color: #bcbcbc;
+}
+.podnaslov {
+    color: #ededed;
+}
+
+/* SEARCH BAR */
+.gsc-control-cse {
+    border-color: #181818;
+    background-color: #181818;
+}
+#gs_tti50 {
+    background-color: #181818;
+    border-color: #181818;
+    color: #fff !important;
+}
+#gsc-i-id1 {
+    background-color: #181818 !important;
+    color: #fff !important;
+}
+.gsc-search-button-v2,
+.gsc-search-button-v2:hover,
+.gsc-search-button-v2:focus {
+    border-color: #006fb9;
+    background-color: #00385d;
+}
+.gsc-above-wrapper-area {
+    border: none !important;
+}
+.gsc-tabsArea {
+    border: none !important;
+}
+.gsc-tabHeader.gsc-tabhActive,
+.gsc-refinementHeader.gsc-refinementhActive {
+    background-color: #00385d;
+}
+.gsc-tabHeader.gsc-tabhInactive,
+.gsc-refinementHeader.gsc-refinementhInactive {
+    background-color: #00385d;
+}
+.gsc-wrapper {
+    background-color: #181818 !imporant;
+}
+.gsc-webResult.gsc-result,
+.gsc-results .gsc-imageResult {
+    background-color: #181818;
+}
+.gsc-webResult.gsc-result:hover {
+    background-color: #00385d;
+}
+.gs-webResult.gs-result a.gs-title:link,
+.gs-webResult.gs-result a.gs-title:link b,
+.gs-imageResult a.gs-title:link,
+.gs-imageResult a.gs-title:link b {
+    color: #006fb9;
+}
+.gs-webResult:not(.gs-no-results-result):not(.gs-error-result) .gs-snippet,
+.gs-fileFormatType {
+    color: #bcbcbc;
+}
+.gsc-results .gsc-cursor-box .gsc-cursor-current-page {
+    background-color: #181818;
+}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {
+    background-color: #181818;
+}
+.gsc-selected-option-container {
+    background-color: #00385d;
+    color: #bcbcbc;
+}
+.gsc-control-cse .gsc-option-menu {
+    background-color: #343434;
+    color: #bcbcbc;
+}
+.gsc-option-menu-item-highlighted {
+    background-color: #00385d;
+    color: #bcbcbc;
+}
+{
+    background-color: #00385d;
+}
